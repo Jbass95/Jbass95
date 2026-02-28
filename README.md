@@ -27,7 +27,7 @@
 
 ## Let’s connect
 - LinkedIn: *https://www.linkedin.com/in/jbass9/*
-- Portfolio/Website: **
+- Portfolio/Website: *Coming Soon*
 - Email: *jbass95@hotmail.com*
 
 ---
