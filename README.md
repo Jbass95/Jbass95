@@ -1,4 +1,4 @@
-# Hi, I'm JB 👋
+# Hi, I'm John Bass👋
 
 **ML Data Associate @ Amazon**  
 I’m passionate about **AI innovation** and **automation**—building reliable, scalable workflows that turn data into useful, measurable outcomes.
@@ -30,11 +30,11 @@ I’m passionate about **AI innovation** and **automation**—building reliable,
 ---
 
 ## Let’s connect
-- LinkedIn: *(add link)*
+- LinkedIn: *https://www.linkedin.com/in/jbass9/*
 - Portfolio/Website: *(add link)*
-- Email: *(add preferred contact)*
+- Email: *jbass95@hotmail.com*
 
 ---
 
 ### A bit more about me
-I enjoy building systems that reduce busywork and help teams move faster—especially where **automation + AI** can unlock new capabilities.
+I enjoy building systems that improve processes and streamline efficeincy to help teams move faster as well as identifyig opportunities where **automation + AI** can unlock new capabilities.
