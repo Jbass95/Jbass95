@@ -19,7 +19,6 @@
 ---
 
 ## Featured projects
-*(Pin your best repos on your profile, then list them here too.)*
 - **Project 1:** Coming Soon 
 - **Project 2:** Coming Soon  
 - **Project 3:** Coming Soon  
