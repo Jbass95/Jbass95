@@ -1,7 +1,6 @@
 # Hi, I'm John Bass👋
 
 **ML Data Associate @ Amazon**  
-I’m passionate about **AI innovation** and **automation**—building reliable, scalable workflows that turn data into useful, measurable outcomes.
 
 ---
 
@@ -16,8 +15,6 @@ I’m passionate about **AI innovation** and **automation**—building reliable,
 - **AI/ML:** data annotation, dataset curation, QA, evaluation workflows, prompt iteration
 - **Automation:** Python scripting, workflow optimization, process improvement
 - **Core:** SQL (basic/intermediate), Git/GitHub, documentation and collaboration
-
-> Swap/add tools here to match what you actually use day-to-day.
 
 ---
 
