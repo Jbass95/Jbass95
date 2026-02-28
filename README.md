@@ -37,4 +37,4 @@ I’m passionate about **AI innovation** and **automation**—building reliable,
 ---
 
 ### A bit more about me
-I enjoy building systems that improve processes and streamline efficeincy to help teams move faster as well as identifyig opportunities where **automation + AI** can unlock new capabilities.
+I enjoy building systems that improve processes and streamline efficeincy to help teams move faster by identifyig opportunities where **automation + AI** can unlock new capabilities.
