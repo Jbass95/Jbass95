@@ -20,15 +20,15 @@
 
 ## Featured projects
 *(Pin your best repos on your profile, then list them here too.)*
-- **Project 1:** Short one-line description  
-- **Project 2:** Short one-line description  
-- **Project 3:** Short one-line description  
+- **Project 1:** Coming Soon 
+- **Project 2:** Coming Soon  
+- **Project 3:** Coming Soon  
 
 ---
 
 ## Let’s connect
 - LinkedIn: *https://www.linkedin.com/in/jbass9/*
-- Portfolio/Website: *(add link)*
+- Portfolio/Website: **
 - Email: *jbass95@hotmail.com*
 
 ---
